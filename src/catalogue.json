@@ -1,0 +1,1567 @@
+[
+  {
+    "path": "browser",
+    "title": "browser",
+    "parent": "",
+    "children": [
+      {
+        "path": "browser/browser-event.md",
+        "title": "browser-event",
+        "parent": "browser"
+      },
+      {
+        "path": "browser/browser-render.md",
+        "title": "浏览器的渲染",
+        "parent": "browser"
+      },
+      {
+        "path": "browser/browser-work.md",
+        "title": "浏览器工作原理",
+        "parent": "browser"
+      },
+      {
+        "path": "browser/rerender.md",
+        "title": "回流（reflow）和重绘（repaint）",
+        "parent": "browser"
+      }
+    ]
+  },
+  {
+    "path": "article",
+    "title": "article",
+    "parent": "",
+    "children": [
+      {
+        "path": "article/book.md",
+        "title": "买了书也不读，还要不要买？",
+        "parent": "article"
+      },
+      {
+        "path": "article/critical-knowledge.md",
+        "title": "临界知识",
+        "parent": "article"
+      },
+      {
+        "path": "article/female.md",
+        "title": "年轻人，等着你的，是一个无论如何努力也得不到回报的社会",
+        "parent": "article"
+      },
+      {
+        "path": "article/read-book.md",
+        "title": "为什么我要求你读书用功",
+        "parent": "article"
+      },
+      {
+        "path": "article/select-license.md",
+        "title": "select-license",
+        "parent": "article"
+      },
+      {
+        "path": "article/seven-thing.md",
+        "title": "越优秀的人，越早想明白的七件事",
+        "parent": "article"
+      },
+      {
+        "path": "article/soft-skills.md",
+        "title": "软技能",
+        "parent": "article"
+      },
+      {
+        "path": "article/why-read-book.md",
+        "title": "是什么让你放下手机去读书？",
+        "parent": "article"
+      },
+      {
+        "path": "article/zhihu48.md",
+        "title": "知乎上的神回复",
+        "parent": "article"
+      },
+      {
+        "path": "article/book",
+        "title": "book",
+        "parent": "article",
+        "children": [
+          {
+            "path": "article/book/ganfa.md",
+            "title": "《干法》—稻盛和夫的劳动观",
+            "parent": "article/book"
+          },
+          {
+            "path": "article/book/xiaogouqianqian.md",
+            "title": "《小狗钱钱》读书笔记",
+            "parent": "article/book"
+          }
+        ]
+      },
+      {
+        "path": "article/financial",
+        "title": "financial",
+        "parent": "article",
+        "children": [
+          {
+            "path": "article/financial/basic.md",
+            "title": "理财必读文章汇总",
+            "parent": "article/financial"
+          }
+        ]
+      },
+      {
+        "path": "article/english",
+        "title": "english",
+        "parent": "article",
+        "children": [
+          {
+            "path": "article/english/learning.md",
+            "title": "learning",
+            "parent": "article/english"
+          }
+        ]
+      },
+      {
+        "path": "article/interesting",
+        "title": "interesting",
+        "parent": "article",
+        "children": [
+          {
+            "path": "article/interesting/remember.md",
+            "title": "需要记在这里的文章",
+            "parent": "article/interesting"
+          },
+          {
+            "path": "article/interesting/sentence.md",
+            "title": "需要记在这里的句子",
+            "parent": "article/interesting"
+          },
+          {
+            "path": "article/interesting/video-collection.md",
+            "title": "观影清单",
+            "parent": "article/interesting"
+          },
+          {
+            "path": "article/interesting/zhihuzheli.md",
+            "title": "一些知乎的汤汤水水",
+            "parent": "article/interesting"
+          }
+        ]
+      },
+      {
+        "path": "article/oldTechnologyArticle",
+        "title": "oldTechnologyArticle",
+        "parent": "article",
+        "children": [
+          {
+            "path": "article/oldTechnologyArticle/ThinkPHP_template.md",
+            "title": "ThinkPHP 模板中的语法知识",
+            "parent": "article/oldTechnologyArticle"
+          },
+          {
+            "path": "article/oldTechnologyArticle/basic-theory.md",
+            "title": "basic-theory",
+            "parent": "article/oldTechnologyArticle"
+          },
+          {
+            "path": "article/oldTechnologyArticle/email.md",
+            "title": "邮件模板采坑",
+            "parent": "article/oldTechnologyArticle"
+          },
+          {
+            "path": "article/oldTechnologyArticle/zifubianma.md",
+            "title": "字符编码趣闻",
+            "parent": "article/oldTechnologyArticle"
+          }
+        ]
+      },
+      {
+        "path": "article/translate",
+        "title": "translate",
+        "parent": "article",
+        "children": [
+          {
+            "path": "article/translate/buffer.md",
+            "title": "Node Buffers 完整介绍",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/dns-base.md",
+            "title": "更新 DNS 是怎么回事？（内含 DNS 查询原理）",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/entropy.md",
+            "title": "战斗熵：在我们的生活中制定混乱秩序",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/javascript-memory.md",
+            "title": "JavaScript 的内存管理介绍",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/memory-leak.md",
+            "title": "Node.js 内存泄露指南",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/nodejs-upgrade.md",
+            "title": "2020 NodeJS 快速升级指南",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/polymorphism.md",
+            "title": "JavaScript 语言的多态",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/react-ref.md",
+            "title": "如何使用 React Ref",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/rewrite-recoil.md",
+            "title": "100 行代码重写 Recoil 状态管理库",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/senior-software-engineer.md",
+            "title": "成为高级软件工程需要知道的那些事",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/simple-react.md",
+            "title": "如何实现一个最简单的 React",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/tasks-microtasks-quwuws-schedules.md",
+            "title": "浏览器的任务、微任务、队列和调度",
+            "parent": "article/translate"
+          },
+          {
+            "path": "article/translate/thirid-age.md",
+            "title": "JavaScript 的第三纪元",
+            "parent": "article/translate"
+          }
+        ]
+      },
+      {
+        "path": "article/year-summary",
+        "title": "year-summary",
+        "parent": "article",
+        "children": [
+          {
+            "path": "article/year-summary/2019",
+            "title": "2019",
+            "parent": "article/year-summary",
+            "children": [
+              {
+                "path": "article/year-summary/2019/index.md",
+                "title": "index",
+                "parent": "article/year-summary/2019"
+              },
+              {
+                "path": "article/year-summary/2019/naibamanong2019.md",
+                "title": "奶爸码农的 2019",
+                "parent": "article/year-summary/2019"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "career",
+    "title": "career",
+    "parent": "",
+    "children": [
+      {
+        "path": "career/business-process.md",
+        "title": "前端工程师能力匹配",
+        "parent": "career"
+      },
+      {
+        "path": "career/front-end-technology.md",
+        "title": "前端知识图谱",
+        "parent": "career"
+      },
+      {
+        "path": "career/online-accident.md",
+        "title": "线上事故处理流程",
+        "parent": "career"
+      },
+      {
+        "path": "career/plan-2022.md",
+        "title": "2022 年第一个五年职业规划",
+        "parent": "career"
+      }
+    ]
+  },
+  {
+    "path": "ai",
+    "title": "ai",
+    "parent": "",
+    "children": [
+      {
+        "path": "ai/collection.md",
+        "title": "AI 工具合集",
+        "parent": "ai"
+      },
+      {
+        "path": "ai/introduce.md",
+        "title": "AI 概览",
+        "parent": "ai"
+      },
+      {
+        "path": "ai/prompt.md",
+        "title": "prompt",
+        "parent": "ai"
+      },
+      {
+        "path": "ai/understand-gpt.md",
+        "title": "了解 GPT",
+        "parent": "ai"
+      }
+    ]
+  },
+  {
+    "path": "basics",
+    "title": "basics",
+    "parent": "",
+    "children": [
+      {
+        "path": "basics/computer.md",
+        "title": "计算机基础和 Linux 基础",
+        "parent": "basics"
+      }
+    ]
+  },
+  {
+    "path": "git",
+    "title": "git",
+    "parent": "",
+    "children": [
+      {
+        "path": "git/command.md",
+        "title": "Git 常用命令",
+        "parent": "git"
+      },
+      {
+        "path": "git/commit.md",
+        "title": "让你的 commit 更有价值",
+        "parent": "git"
+      },
+      {
+        "path": "git/directory.md",
+        "title": "目录讲解",
+        "parent": "git"
+      },
+      {
+        "path": "git/git-log.md",
+        "title": "10 个有用的 git log 技巧",
+        "parent": "git"
+      },
+      {
+        "path": "git/intro.md",
+        "title": "版本控制系统简介",
+        "parent": "git"
+      },
+      {
+        "path": "git/rebase.md",
+        "title": "实用的 git 协作",
+        "parent": "git"
+      },
+      {
+        "path": "git/setconfig.md",
+        "title": "Git 配置和.gitignore",
+        "parent": "git"
+      },
+      {
+        "path": "git/theory.md",
+        "title": "基础和原理",
+        "parent": "git"
+      },
+      {
+        "path": "git/workflow.md",
+        "title": "安装和入门",
+        "parent": "git"
+      }
+    ]
+  },
+  {
+    "path": "html",
+    "title": "html",
+    "parent": "",
+    "children": [
+      {
+        "path": "html/bom.md",
+        "title": "BOM",
+        "parent": "html"
+      },
+      {
+        "path": "html/cssom.md",
+        "title": "CSSOM",
+        "parent": "html"
+      },
+      {
+        "path": "html/dom.md",
+        "title": "DOM",
+        "parent": "html"
+      },
+      {
+        "path": "html/global-attr.md",
+        "title": "HTML5 全局属性汇总",
+        "parent": "html"
+      },
+      {
+        "path": "html/intro.md",
+        "title": "HTML5 简介",
+        "parent": "html"
+      },
+      {
+        "path": "html/meta.md",
+        "title": "HTML 的 meta 汇总",
+        "parent": "html"
+      }
+    ]
+  },
+  {
+    "path": "infrastructure",
+    "title": "infrastructure",
+    "parent": "",
+    "children": [
+      {
+        "path": "infrastructure/babel.md",
+        "title": "Babel 备忘录",
+        "parent": "infrastructure"
+      },
+      {
+        "path": "infrastructure/browserslist.md",
+        "title": "认识 browserslist",
+        "parent": "infrastructure"
+      },
+      {
+        "path": "infrastructure/data-analysis-word-interpretation.md",
+        "title": "数据分析名词解释",
+        "parent": "infrastructure"
+      },
+      {
+        "path": "infrastructure/need-or-not-comment.md",
+        "title": "良性代码：到底要不要注释？",
+        "parent": "infrastructure"
+      },
+      {
+        "path": "infrastructure/sourcemap.md",
+        "title": "SourceMap",
+        "parent": "infrastructure"
+      },
+      {
+        "path": "infrastructure/vscode-code-format.md",
+        "title": "前端代码规范和编码风格详解",
+        "parent": "infrastructure"
+      },
+      {
+        "path": "infrastructure/webpack.md",
+        "title": "Webpack 备忘",
+        "parent": "infrastructure"
+      },
+      {
+        "path": "infrastructure/backup",
+        "title": "backup",
+        "parent": "infrastructure",
+        "children": [
+          {
+            "path": "infrastructure/backup/eslint-name.md",
+            "title": "ESLint 之解析包名",
+            "parent": "infrastructure/backup"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "java",
+    "title": "java",
+    "parent": "",
+    "children": [
+      {
+        "path": "java/MyBatis+MyBatis-Plus.md",
+        "title": "MyBatis 与 MyBatis-Plus 概念解析",
+        "parent": "java"
+      },
+      {
+        "path": "java/basic.md",
+        "title": "Java 基础",
+        "parent": "java"
+      },
+      {
+        "path": "java/cache.md",
+        "title": "缓存相关",
+        "parent": "java"
+      },
+      {
+        "path": "java/introduction.md",
+        "title": "Java 的基本概念",
+        "parent": "java"
+      },
+      {
+        "path": "java/maven-basic.md",
+        "title": "Maven 基础",
+        "parent": "java"
+      },
+      {
+        "path": "java/maven-pom.md",
+        "title": "Maven pom.xml 基础",
+        "parent": "java"
+      },
+      {
+        "path": "java/same.md",
+        "title": "Java 一些相关概念深入搭配理解",
+        "parent": "java"
+      },
+      {
+        "path": "java/spring-framework.md",
+        "title": "Spring Framework",
+        "parent": "java"
+      },
+      {
+        "path": "java/spring.md",
+        "title": "Spring",
+        "parent": "java"
+      },
+      {
+        "path": "java/study.md",
+        "title": "study",
+        "parent": "java"
+      },
+      {
+        "path": "java/update.md",
+        "title": "Java 的更新",
+        "parent": "java"
+      }
+    ]
+  },
+  {
+    "path": "network-basics",
+    "title": "network-basics",
+    "parent": "",
+    "children": [
+      {
+        "path": "network-basics/basic.md",
+        "title": "网络基础",
+        "parent": "network-basics"
+      },
+      {
+        "path": "network-basics/DNS",
+        "title": "DNS",
+        "parent": "network-basics",
+        "children": [
+          {
+            "path": "network-basics/DNS/host.md",
+            "title": "host",
+            "parent": "network-basics/DNS"
+          }
+        ]
+      },
+      {
+        "path": "network-basics/http",
+        "title": "http",
+        "parent": "network-basics",
+        "children": [
+          {
+            "path": "network-basics/http/basic.md",
+            "title": "重新认识 HTTP",
+            "parent": "network-basics/http"
+          },
+          {
+            "path": "network-basics/http/cache.md",
+            "title": "HTTP 缓存",
+            "parent": "network-basics/http"
+          },
+          {
+            "path": "network-basics/http/into.md",
+            "title": "HTTP 简介",
+            "parent": "network-basics/http"
+          }
+        ]
+      },
+      {
+        "path": "network-basics/request",
+        "title": "request",
+        "parent": "network-basics",
+        "children": [
+          {
+            "path": "network-basics/request/index.md",
+            "title": "index",
+            "parent": "network-basics/request"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "nodejs",
+    "title": "nodejs",
+    "parent": "",
+    "children": [
+      {
+        "path": "nodejs/basic.md",
+        "title": "Node 基础简介",
+        "parent": "nodejs"
+      },
+      {
+        "path": "nodejs/core-api.md",
+        "title": "核心模块 API",
+        "parent": "nodejs"
+      },
+      {
+        "path": "nodejs/express.md",
+        "title": "简单中间件框架的实现",
+        "parent": "nodejs"
+      },
+      {
+        "path": "nodejs/npm-pro.md",
+        "title": "npm 进阶",
+        "parent": "nodejs"
+      },
+      {
+        "path": "nodejs/npm.md",
+        "title": "npm 备忘",
+        "parent": "nodejs"
+      },
+      {
+        "path": "nodejs/path.md",
+        "title": "文件路径相关",
+        "parent": "nodejs"
+      },
+      {
+        "path": "nodejs/record.md",
+        "title": "NodeJS 备忘",
+        "parent": "nodejs"
+      },
+      {
+        "path": "nodejs/require.md",
+        "title": "require 模块的原理",
+        "parent": "nodejs"
+      }
+    ]
+  },
+  {
+    "path": "project",
+    "title": "project",
+    "parent": "",
+    "children": [
+      {
+        "path": "project/el-scrollbar.md",
+        "title": "Vue的自定义滚动，我用el-scrollbar",
+        "parent": "project"
+      },
+      {
+        "path": "project/experience.md",
+        "title": "项目开发经验",
+        "parent": "project"
+      },
+      {
+        "path": "project/tips.md",
+        "title": "项目中总结的小 tips",
+        "parent": "project"
+      },
+      {
+        "path": "project/performance",
+        "title": "performance",
+        "parent": "project",
+        "children": [
+          {
+            "path": "project/performance/load.md",
+            "title": "加载",
+            "parent": "project/performance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "visualization",
+    "title": "visualization",
+    "parent": "",
+    "children": [
+      {
+        "path": "visualization/cesium.md",
+        "title": "Cesium",
+        "parent": "visualization"
+      },
+      {
+        "path": "visualization/overview.md",
+        "title": "可视化总览",
+        "parent": "visualization"
+      }
+    ]
+  },
+  {
+    "path": "frame",
+    "title": "frame",
+    "parent": "",
+    "children": [
+      {
+        "path": "frame/react",
+        "title": "react",
+        "parent": "frame",
+        "children": [
+          {
+            "path": "frame/react/concept.md",
+            "title": "React 相关概念",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/frame-concept.md",
+            "title": "现代框架的分类与解析",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/instroduce.md",
+            "title": "React 简介",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/react-event.md",
+            "title": "React 的事件系统",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/react-hooks.md",
+            "title": "React Hooks 详解",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/react-reconcile.md",
+            "title": "React 的 reconcile 流程",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/react-update.md",
+            "title": "React 的状态更新",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/scheduler.md",
+            "title": "React scheduler 协调器",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/source-code.md",
+            "title": "React 的源码流程",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/suspense.md",
+            "title": "Suspense 原理",
+            "parent": "frame/react"
+          },
+          {
+            "path": "frame/react/theory.md",
+            "title": "从 React 的源码看原理",
+            "parent": "frame/react"
+          }
+        ]
+      },
+      {
+        "path": "frame/vue",
+        "title": "vue",
+        "parent": "frame",
+        "children": [
+          {
+            "path": "frame/vue/Virtual-DOM.md",
+            "title": "Vue 中的 Virtual DOM 和 diff 算法",
+            "parent": "frame/vue"
+          },
+          {
+            "path": "frame/vue/concept.md",
+            "title": "Vue 基础概念",
+            "parent": "frame/vue"
+          },
+          {
+            "path": "frame/vue/reactive.md",
+            "title": "Vue2 和 Vue3 响应系统",
+            "parent": "frame/vue"
+          },
+          {
+            "path": "frame/vue/snabbdom-vdom.md",
+            "title": "Virtual DOM 开源库——Snabbdom",
+            "parent": "frame/vue"
+          },
+          {
+            "path": "frame/vue/about",
+            "title": "about",
+            "parent": "frame/vue",
+            "children": [
+              {
+                "path": "frame/vue/about/zhihu10.md",
+                "title": "成长和发展：尤雨溪的十条知乎回答",
+                "parent": "frame/vue/about"
+              }
+            ]
+          },
+          {
+            "path": "frame/vue/vue2",
+            "title": "vue2",
+            "parent": "frame/vue",
+            "children": [
+              {
+                "path": "frame/vue/vue2/compile.md",
+                "title": "【六】Vue2 源码 — 编译详解",
+                "parent": "frame/vue/vue2"
+              },
+              {
+                "path": "frame/vue/vue2/component.md",
+                "title": "【七】Vue2 源码 — 组件详解",
+                "parent": "frame/vue/vue2"
+              },
+              {
+                "path": "frame/vue/vue2/computed&watch.md",
+                "title": "【五】Vue2 源码 — 计算属性&侦听属性",
+                "parent": "frame/vue/vue2"
+              },
+              {
+                "path": "frame/vue/vue2/constructor.md",
+                "title": "【二】Vue2 源码—Vue 构造函数和初始化",
+                "parent": "frame/vue/vue2"
+              },
+              {
+                "path": "frame/vue/vue2/data-view.md",
+                "title": "【三】Vue2 源码—数据驱动视图（模板和数据如何渲染成最终 DOM）",
+                "parent": "frame/vue/vue2"
+              },
+              {
+                "path": "frame/vue/vue2/directory-build.md",
+                "title": "【一】Vue2 源码-项目基础和项目构建",
+                "parent": "frame/vue/vue2"
+              },
+              {
+                "path": "frame/vue/vue2/reactive.md",
+                "title": "【四】Vue2 源码 — 深入响应式原理",
+                "parent": "frame/vue/vue2"
+              }
+            ]
+          },
+          {
+            "path": "frame/vue/vue3",
+            "title": "vue3",
+            "parent": "frame/vue",
+            "children": [
+              {
+                "path": "frame/vue/vue3/component.md",
+                "title": "Vue3 源码 — 组件详解",
+                "parent": "frame/vue/vue3"
+              },
+              {
+                "path": "frame/vue/vue3/intro.md",
+                "title": "Vue 3 概览",
+                "parent": "frame/vue/vue3"
+              },
+              {
+                "path": "frame/vue/vue3/props.md",
+                "title": "Vue.js 源码 — Props 详解",
+                "parent": "frame/vue/vue3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "database",
+    "title": "database",
+    "parent": "",
+    "children": [
+      {
+        "path": "database/mysql",
+        "title": "mysql",
+        "parent": "database",
+        "children": [
+          {
+            "path": "database/mysql/field-type.md",
+            "title": "MySQL 字段类型",
+            "parent": "database/mysql"
+          },
+          {
+            "path": "database/mysql/mysql.md",
+            "title": "Mysql 必知必会",
+            "parent": "database/mysql"
+          },
+          {
+            "path": "database/mysql/optimisim.md",
+            "title": "数据库优化",
+            "parent": "database/mysql"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "css",
+    "title": "css",
+    "parent": "",
+    "children": [
+      {
+        "path": "css/layouts",
+        "title": "layouts",
+        "parent": "css",
+        "children": [
+          {
+            "path": "css/layouts/common-layout.md",
+            "title": "常见布局",
+            "parent": "css/layouts"
+          },
+          {
+            "path": "css/layouts/flexbox.md",
+            "title": "Flex 弹性布局",
+            "parent": "css/layouts"
+          },
+          {
+            "path": "css/layouts/grid.md",
+            "title": "Grid 网格布局",
+            "parent": "css/layouts"
+          },
+          {
+            "path": "css/layouts/middle.md",
+            "title": "居中布局",
+            "parent": "css/layouts"
+          },
+          {
+            "path": "css/layouts/tips.md",
+            "title": "CSS tips",
+            "parent": "css/layouts"
+          },
+          {
+            "path": "css/layouts/waterfall.md",
+            "title": "瀑布流",
+            "parent": "css/layouts"
+          }
+        ]
+      },
+      {
+        "path": "css/theory",
+        "title": "theory",
+        "parent": "css",
+        "children": [
+          {
+            "path": "css/theory/animation.md",
+            "title": "CSS 动画",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/background-color.md",
+            "title": "CSS 背景",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/basic.md",
+            "title": "CSS 基础概念",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/color.md",
+            "title": "CSS 的颜色",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/engineering.md",
+            "title": "CSS 工程化",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/mobile.md",
+            "title": "移动端适配",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/position.md",
+            "title": "层叠上下文",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/property-tips.md",
+            "title": "属性注意点",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/pseudo.md",
+            "title": "聊一聊伪类和伪元素",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/selector.md",
+            "title": "CSS 选择器",
+            "parent": "css/theory"
+          },
+          {
+            "path": "css/theory/typesetting.md",
+            "title": "CSS 排版-盒模型和文档流",
+            "parent": "css/theory"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "javascript",
+    "title": "javascript",
+    "parent": "",
+    "children": [
+      {
+        "path": "javascript/ES6",
+        "title": "ES6",
+        "parent": "javascript",
+        "children": [
+          {
+            "path": "javascript/ES6/async.md",
+            "title": "[译]async 的异步操作模式",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/block.md",
+            "title": "[ES6]由块级作用域引出的一场变革",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/class.md",
+            "title": "理解 ES6 中的 Class",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/decorator.md",
+            "title": "decorator 装饰器",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/index.md",
+            "title": "index",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/private-variable.md",
+            "title": "JavaScript 中实现私有变量",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/promise.md",
+            "title": "JavaScript Promise 详解",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/proxy.md",
+            "title": "Proxy",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/set_map.md",
+            "title": "Set 和 Map",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/string.md",
+            "title": "[ES6]字符到底发生了什么变化",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/symbol.md",
+            "title": "Symbol 备忘",
+            "parent": "javascript/ES6"
+          },
+          {
+            "path": "javascript/ES6/worker.md",
+            "title": "Worker",
+            "parent": "javascript/ES6"
+          }
+        ]
+      },
+      {
+        "path": "javascript/api",
+        "title": "api",
+        "parent": "javascript",
+        "children": [
+          {
+            "path": "javascript/api/enumerate.md",
+            "title": "对象成员的列举和可列举性",
+            "parent": "javascript/api"
+          }
+        ]
+      },
+      {
+        "path": "javascript/evolution",
+        "title": "evolution",
+        "parent": "javascript",
+        "children": [
+          {
+            "path": "javascript/evolution/article.md",
+            "title": "技术发展总结文章",
+            "parent": "javascript/evolution"
+          },
+          {
+            "path": "javascript/evolution/esnext.md",
+            "title": "ES1025 ～ ES2025 新特性",
+            "parent": "javascript/evolution"
+          }
+        ]
+      },
+      {
+        "path": "javascript/typescript",
+        "title": "typescript",
+        "parent": "javascript",
+        "children": [
+          {
+            "path": "javascript/typescript/config-file.md",
+            "title": "tsconfig.json 配置文件",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/intro.md",
+            "title": "TypeScript 介绍",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/synax.md",
+            "title": "TypeScript 基本语法",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/type-advance.md",
+            "title": "TypeScript 高级类型",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/type-attention.md",
+            "title": "TypeScript 类型重点分析",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/type-check.md",
+            "title": "TypeScript 类型检查和保护",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/type-declare.md",
+            "title": "TypeScript 类型声明文件",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/type-programing.md",
+            "title": "TypeScript 类型编程",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/typescript-important.md",
+            "title": "【译】TypeScript 为何如此重要？",
+            "parent": "javascript/typescript"
+          },
+          {
+            "path": "javascript/typescript/use-typescript-two-years.md",
+            "title": "【译】使用 TypeScript 两年后 - 值得吗？",
+            "parent": "javascript/typescript"
+          }
+        ]
+      },
+      {
+        "path": "javascript/utility",
+        "title": "utility",
+        "parent": "javascript",
+        "children": [
+          {
+            "path": "javascript/utility/basic.md",
+            "title": "JavaScript 基础",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/cache.md",
+            "title": "三种本地存储方式和一些扩展",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/fp.md",
+            "title": "fp",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/good-parts.md",
+            "title": "如何写好 JavaScript",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/javascript-asynchronous.md",
+            "title": "JavaScript 异步",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/javascript-function.md",
+            "title": "JavaScript 函数",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/javascript-object.md",
+            "title": "JavaScript 对象相关",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/javascript-runing.md",
+            "title": "JavaScript 引擎的执行原理",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/javascript-type.md",
+            "title": "JavaScript 数据类型（运行时）",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/lexical-grammar.md",
+            "title": "JavaScript 词法",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/memory.md",
+            "title": "JavaScript 内存管理和垃圾回收",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/module.md",
+            "title": "JavaScript 的模块",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/operatorAbout.md",
+            "title": "JavaScript 运算符相关拾遗",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/regexp.md",
+            "title": "正则表达式",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/syntax.md",
+            "title": "JavaScript 语法",
+            "parent": "javascript/utility"
+          },
+          {
+            "path": "javascript/utility/data-interaction",
+            "title": "data-interaction",
+            "parent": "javascript/utility",
+            "children": [
+              {
+                "path": "javascript/utility/data-interaction/ajax.md",
+                "title": "Ajax",
+                "parent": "javascript/utility/data-interaction"
+              },
+              {
+                "path": "javascript/utility/data-interaction/cross-origin.md",
+                "title": "前端请求跨域",
+                "parent": "javascript/utility/data-interaction"
+              },
+              {
+                "path": "javascript/utility/data-interaction/index.md",
+                "title": "index",
+                "parent": "javascript/utility/data-interaction"
+              }
+            ]
+          },
+          {
+            "path": "javascript/utility/fe-algorithm",
+            "title": "fe-algorithm",
+            "parent": "javascript/utility",
+            "children": [
+              {
+                "path": "javascript/utility/fe-algorithm/array.md",
+                "title": "数组的十八般武艺",
+                "parent": "javascript/utility/fe-algorithm"
+              },
+              {
+                "path": "javascript/utility/fe-algorithm/basic-algorithm.md",
+                "title": "JavaScript 基础算法",
+                "parent": "javascript/utility/fe-algorithm"
+              },
+              {
+                "path": "javascript/utility/fe-algorithm/data.md",
+                "title": "常见数据结构",
+                "parent": "javascript/utility/fe-algorithm"
+              },
+              {
+                "path": "javascript/utility/fe-algorithm/index.md",
+                "title": "index",
+                "parent": "javascript/utility/fe-algorithm"
+              },
+              {
+                "path": "javascript/utility/fe-algorithm/simple.md",
+                "title": "简单算法实例",
+                "parent": "javascript/utility/fe-algorithm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "method",
+    "title": "method",
+    "parent": "",
+    "children": [
+      {
+        "path": "method/efficiency",
+        "title": "efficiency",
+        "parent": "method",
+        "children": [
+          {
+            "path": "method/efficiency/tomato.md",
+            "title": "番茄工作法",
+            "parent": "method/efficiency"
+          }
+        ]
+      },
+      {
+        "path": "method/insight",
+        "title": "insight",
+        "parent": "method",
+        "children": [
+          {
+            "path": "method/insight/bumm.md",
+            "title": "哪句话让你起鸡皮疙瘩？",
+            "parent": "method/insight"
+          },
+          {
+            "path": "method/insight/decision.md",
+            "title": "如何形成决策",
+            "parent": "method/insight"
+          },
+          {
+            "path": "method/insight/infomation.md",
+            "title": "拒绝信息成瘾，重新思考你和信息的关系",
+            "parent": "method/insight"
+          },
+          {
+            "path": "method/insight/interview.md",
+            "title": "关于面试的种种",
+            "parent": "method/insight"
+          },
+          {
+            "path": "method/insight/re-decision.md",
+            "title": "如何复盘及改变决策",
+            "parent": "method/insight"
+          },
+          {
+            "path": "method/insight/some-article.md",
+            "title": "一些影响了我的文章",
+            "parent": "method/insight"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "mobile",
+    "title": "mobile",
+    "parent": "",
+    "children": [
+      {
+        "path": "mobile/h5",
+        "title": "h5",
+        "parent": "mobile",
+        "children": [
+          {
+            "path": "mobile/h5/cocepte.md",
+            "title": "移动开发概览",
+            "parent": "mobile/h5"
+          },
+          {
+            "path": "mobile/h5/compate.md",
+            "title": "移动端兼容",
+            "parent": "mobile/h5"
+          },
+          {
+            "path": "mobile/h5/fit.md",
+            "title": "移动端适配",
+            "parent": "mobile/h5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "server",
+    "title": "server",
+    "parent": "",
+    "children": [
+      {
+        "path": "server/docker",
+        "title": "docker",
+        "parent": "server",
+        "children": [
+          {
+            "path": "server/docker/docker-command.md",
+            "title": "Docker 命令",
+            "parent": "server/docker"
+          },
+          {
+            "path": "server/docker/docker-compose.md",
+            "title": "docker-compose",
+            "parent": "server/docker"
+          },
+          {
+            "path": "server/docker/docker-file.md",
+            "title": "dockerfile 详解",
+            "parent": "server/docker"
+          },
+          {
+            "path": "server/docker/docker-info.md",
+            "title": "Docker 入门",
+            "parent": "server/docker"
+          },
+          {
+            "path": "server/docker/docker-install.md",
+            "title": "一键安装 docker 的 shell 脚本",
+            "parent": "server/docker"
+          }
+        ]
+      },
+      {
+        "path": "server/nginx",
+        "title": "nginx",
+        "parent": "server",
+        "children": [
+          {
+            "path": "server/nginx/advance.md",
+            "title": "Nginx 进阶",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/command.md",
+            "title": "Nginx 操作命令",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/config.md",
+            "title": "Nginx 基础配置和语法",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/install.md",
+            "title": "Nginx 安装",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/introduction.md",
+            "title": "Nginx 介绍",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/process.md",
+            "title": "Nginx 执行流程",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/proxy.md",
+            "title": "Nginx 实操-代理相关",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/static.md",
+            "title": "Nginx 实操-静态资源服务器",
+            "parent": "server/nginx"
+          },
+          {
+            "path": "server/nginx/tips.md",
+            "title": "Nginx 实操-常用配置",
+            "parent": "server/nginx"
+          }
+        ]
+      },
+      {
+        "path": "server/linux",
+        "title": "linux",
+        "parent": "server",
+        "children": [
+          {
+            "path": "server/linux/centos.md",
+            "title": "CentOS 入门",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/clean-disk.md",
+            "title": "服务器磁盘清理",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/command.md",
+            "title": "Linux 常用命令",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/computer.md",
+            "title": "计算机基础和 Linux 基础",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/crontab.md",
+            "title": "Linux 定时任务 Crontab",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/iterm2.md",
+            "title": "ITerm2 快捷键",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/network-operation.md",
+            "title": "Linux 网络操作命令",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/operation.md",
+            "title": "Linux 服务器运维",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/setup.md",
+            "title": "服务器配置基础",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/ssh-keygen.md",
+            "title": "SSH 免密登录",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/version.md",
+            "title": "Linux 版本详述",
+            "parent": "server/linux"
+          },
+          {
+            "path": "server/linux/vim.md",
+            "title": "Vim 基础操作",
+            "parent": "server/linux"
+          }
+        ]
+      },
+      {
+        "path": "server/shell",
+        "title": "shell",
+        "parent": "server",
+        "children": [
+          {
+            "path": "server/shell/basics.md",
+            "title": "Shell 概览",
+            "parent": "server/shell"
+          },
+          {
+            "path": "server/shell/script-extend.md",
+            "title": "shell 脚本编程扩展",
+            "parent": "server/shell"
+          },
+          {
+            "path": "server/shell/script.md",
+            "title": "shell 脚本编程详解",
+            "parent": "server/shell"
+          }
+        ]
+      }
+    ]
+  }
+]
